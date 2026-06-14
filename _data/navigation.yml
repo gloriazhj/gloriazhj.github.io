@@ -1,33 +1,13 @@
-# The following is the order of the links in the header of the website.
+# The header menu. The site title (top-left) always links to the home page,
+# so only Research and CV need to be listed here.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# The CV item points straight at a PDF in your files/ folder, so clicking it
+# opens the PDF directly instead of a web page. Upload your PDF to files/ and
+# make sure the filename below matches exactly (it is case-sensitive).
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/Gloria_cv.pdf
