@@ -17,7 +17,7 @@ University, working on trapped-ion quantum computing.
 
 My work centers on building high-fidelity, scalable quantum hardware: designing
 and calibrating entangling gates, simulating open-system dynamics, and connecting
-device-level physics to the requirements of quantum error correction. I am
+device-level physics to the requirements of fault-tolerant quantum computing. I am
 comfortable both at the optics table and in the control and simulation stack.
 
 You can read more about my current projects on the [research](/research/) page,
