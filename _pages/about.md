@@ -12,10 +12,8 @@ Hi!
 I am an experimental physicist working in atomic, molecular, and optical (AMO)
 physics and quantum information science. I am currently an IQUIST Postdoctoral
 Fellow at the University of Illinois Urbana-Champaign, where I work on
-neutral-atom tweezer arrays using <sup>171</sup>Yb in [Dr. Jacob Covey's lab]
-(https://sites.google.com/view/coveylab/home?authuser=0). I completed my PhD at Duke
-University, working on trapped-ion quantum computing with [Dr. Ken Brown]
-(https://brownlab.pratt.duke.edu).
+neutral-atom tweezer arrays using <sup>171</sup>Yb in [Dr. Jacob Covey's lab](https://sites.google.com/view/coveylab/home?authuser=0). I completed my PhD at Duke
+University, working on trapped-ion quantum computing with [Dr. Ken Brown](https://brownlab.pratt.duke.edu).
 
 My work centers on building high-fidelity, scalable quantum hardware: designing
 and calibrating entangling gates, simulating open-system dynamics, and connecting
